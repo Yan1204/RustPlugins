@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "faRLPwXlas4Du0wVFzUeeIKLxH1pnfWBhAlySYND6/jbHFr7I+a3MCk9W7uHc9BYqIGcLZlPoQF2DnD8rxSIrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivan\\Desktop\\RustServer\\ChestShop_Plugin\\ChestShop_Plugin\\ChestShop_Plugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
